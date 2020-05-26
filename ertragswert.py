@@ -11,4 +11,4 @@ ew = (ro - ro * bk - bw * z) * (pow(z + 1, n) - 1) / (z * pow(z + 1, n)) + bw
 
 vf = ew / ro
 print("Der Ertragswert beträgt ", ew, "€")
-print("Das Vielfache des Rohertrags beträgt das ", vf, "-fache")
+print("… damit beträgt das Vielfache des Rohertrags ", vf)
