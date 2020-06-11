@@ -11,6 +11,6 @@ Das Python-Script „ertragswert_mc.py“ erlaubt daher die Eingabe eines Minimu
 Aus diesen Werten erstellt das Script jeweils 10.000 normalverteilte Zufallszahlen innerhalb der Bandbreite und berechnet damit 10.000 normalverteilte Ertragswerte und stellt die Ergebnisse in einem Histogramm dar.
 
 # Liegenschaftszinssatz finden
-Sind der Kaufpreis einer Immobilie, Rohertrag, Bewirtschaftungskosten und Bodenwert bekannt kann durch ein Iterationsverfahren der Liegenschaftszinssatz errechnet werden.
+Sind der Kaufpreis einer Immobilie, Rohertrag, Bewirtschaftungskosten, Restnutzungsdauer und Bodenwert bekannt kann durch ein Iterationsverfahren der Liegenschaftszinssatz errechnet werden.
 
 Das Python-Script "LZ-iteration.py" öffnet eine CSV-Datei, die im Dateiaufbau der Datei "dummy.csv" gleichen muss, errechnet die entsprechenden Liegenschaftszinssätze und speichert die Ergebnisse in der Datei "dummy-iter.csv".
