@@ -13,4 +13,4 @@ Aus diesen Werten erstellt das Script jeweils 10.000 normalverteilte Zufallszahl
 # Liegenschaftszinssatz finden
 Sind der Kaufpreis einer Immobilie, Rohertrag, Bewirtschaftungskosten und Bodenwert bekannt kann durch ein Iterationsverfahren der Liegenschaftszinssatz errechnet werden.
 
-
+Das Python-Script "LZ-iteration.py" öffnet eine CSV-Datei, die im Dateiaufbau der Datei "dummy.csv" gleichen muss, errechnet die entsprechenden Liegenschaftszinssätze und speichert die Ergebnisse in der Datei "dummy-iter.csv".
